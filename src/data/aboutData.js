@@ -1,6 +1,6 @@
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+    title: "Full Stack Web Developer",
+    description1: "My name's Amarjeet Maurya . I'm a web designer and developer based in India, Mumbai.",
+    description2: "Tech-savvy Full Stack Web Developer proficient in fundamental front-end languages and server-side languages. In-depth knowledge of HTML, CSS and JavaScript. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in software industry.",
+    image: 1
 }
